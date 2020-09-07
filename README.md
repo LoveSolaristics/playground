@@ -1,2 +1,2 @@
-# playground
-playground for testing features of HTML an CSS
+#playground
+repo for testing HTML and CSS features
