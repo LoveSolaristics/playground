@@ -1,2 +1,2 @@
 #playground
-repo for testing HTML and CSS features
+Репозиторий для тестирования различных возможностей html и css
