@@ -11,5 +11,5 @@
 
 ## Источники
 
-[Видео](https://youtu.be/WBrngvT78gw) Вадима Макеева 
+[Видео](https://youtu.be/nbN22yqEgM0) Вадима Макеева 
 
